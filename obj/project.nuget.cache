@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "xyiW0kGMf6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thesi\\RiderProjects\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thesi\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.2\\microsoft.netframework.referenceassemblies.net35.1.0.2.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\mono.cecil\\0.10.4\\mono.cecil.0.10.4.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\thesi\\.nuget\\packages\\unityengine.modules\\3.4.0\\unityengine.modules.3.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "message": "Project dependency UnityEngine.Modules does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "projectPath": "C:\\Users\\thesi\\RiderProjects\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\thesi\\RiderProjects\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono\\AceAttorneyTrilogyThaiMod_BepInEx_5_Mono.csproj",
+      "libraryId": "UnityEngine.Modules",
+      "targetGraphs": [
+        ".NETFramework,Version=v3.5"
+      ]
+    }
+  ]
+}

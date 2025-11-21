@@ -1,0 +1,12 @@
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.csproj.AssemblyReference.cache
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\MyPluginInfo.cs
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.AssemblyInfoInputs.cache
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.AssemblyInfo.cs
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.csproj.CoreCompileInputs.cache
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\AceAttorneyThaiMod.csproj.CopyComplete
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\bin\Debug\net35\com.translate_kordai.ace_attorney_trilogy_thai_mod.dll
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\bin\Debug\net35\com.translate_kordai.ace_attorney_trilogy_thai_mod.pdb
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\com.translate_kordai.ace_attorney_trilogy_thai_mod.dll
+C:\Users\thesi\RiderProjects\AceAttorneyThaiMod\obj\Debug\net35\com.translate_kordai.ace_attorney_trilogy_thai_mod.pdb
